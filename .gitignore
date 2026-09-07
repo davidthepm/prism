@@ -143,3 +143,6 @@ transcript*.json
 # Lighthouse reports
 lighthouse-*
 /public/twemoji/
+
+# BMAD planning and implementation artifacts may contain private household data.
+/_bmad-output/
